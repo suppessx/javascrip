@@ -6,23 +6,23 @@
             display:flex;
             position: relative;
             flex-direction:column;
-            background:rgb(255, 127, 209);
+            background:rgb(255, 255, 255);
             justify-content:center;
             align-items:center;
         }
         td,tr,th{
-            border: 3px double red;
+            border: 3px solid red;
             border-radius:10px;
             position:relative;
             max-width:auto;
         }
         table {
-            border: 8px double red;
-            border-radius:10px;
+            border: 5px solid red;
+            border-radius:5px;
             max-width: auto; 
         }
         div{
-            margin: 2rem;
+            margin: 3rem;
         }
         td,tr{
             margin: 7px 10px;
@@ -30,13 +30,13 @@
             
         }
         th{
-            background:rgb(3, 99, 211);
+            background:rgb(100, 100, 100);
             color:#fff;
             padding: 0.7rem 0.5rem;
             font:small-caps 800 22px Arial,sans-serif;
         }
         td{
-            background:rgb(3, 158, 255);
+            background:rgb(100, 100, 100);
             color:#fff;
             padding: 0.7rem 0.5rem;
             font: 600 16px serif;
