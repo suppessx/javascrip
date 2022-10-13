@@ -10,61 +10,61 @@
             {
                 "id":"1",
                 "name":"Oreo",
-                "price":10บาท, 
+                "price":10, 
                 "img":"https://static.bigc.co.th/media/catalog/product/cache/2/image/17f82f742ffe127f42dca9de82fb58b1/8/9/8992760223015_6.jpg"
             },
             {
                 "id":"2",
                 "name":"Cream O",
-                "price":10บาท, 
+                "price":10, 
                 "img":"https://cf.shopee.co.th/file/3507f01b0b352d2c72fe4ea171d7b86f"
             },
             {
                 "id":"3",
                 "name":"Collon",
-                "price":15บาท, 
+                "price":15, 
                 "img":"https://backend.tops.co.th/media/catalog/product/8/8/8851019030517_28-04-2021.jpg"
             },
             {
                 "id":"4",
                 "name":"Pocky",
-                "price":10บาท, 
+                "price":10, 
                 "img":"https://www.glico.com/assets/images/small/PO20BF%20DV14.png"
             },
             {
                 "id":"5",
                 "name":"m&m",
-                "price":5บาท, 
+                "price":5, 
                 "img":"https://media-kiwis.monline.com/media/catalog/product/cache/4eae07c2f68a268511cfb4de77370966/9/3/93682961_1_5tjx9ydyb6dwtatk.jpg"
             },
             {
                 "id":"6",
                 "name":"EURO",
-                "price":5บาท, 
+                "price":5, 
                 "img":"https://cf.shopee.co.th/file/4b1832f96ddfd90367536ad7382f9238"
             },
             {
                 "id":"7",
                 "name":"Lays",
-                "price":20บาท, 
+                "price":20, 
                 "img":"https://static.bigc.co.th/media/catalog/product/cache/2/image/17f82f742ffe127f42dca9de82fb58b1/8/8/8850718809011_5.jpg"
             },
             {
                 "id":"8",
                 "name":"Bun Bun",
-                "price":20บาท, 
+                "price":20, 
                 "img":"https://th-test-11.slatic.net/p/08ffdee2cac4376b82eaeba7b2657881.jpg"
             },
             {
                 "id":"9",
                 "name":"Bento",
-                "price":5บาท, 
+                "price":5, 
                 "img":"https://static.bigc.co.th/media/catalog/product/cache/2/image/17f82f742ffe127f42dca9de82fb58b1/8/8/8850157404204.jpg"
             },
             {
                 "id":"10",
                 "name":"Karamujo",
-                "price":30บาท, 
+                "price":30, 
                 "img":"https://backend.tops.co.th/media/catalog/product/8/8/8851004451204.jpg"
             }
             ]';
