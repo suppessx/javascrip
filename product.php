@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ElectricalAppliance</title>
+    <title>ขายตาม7-11</title>
 </head>
 <body>
-    <h1>Electrical Appliance</h1>
+    <h1>ขายตาม7-11</h1>
     <?php
         $product = '[
             {
